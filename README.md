@@ -1,29 +1,28 @@
-# Smart Task Planner
+# 📝 Smart Daily Task Planner
 
-A simple and user-friendly web-based task planner that helps users organize and manage their daily tasks efficiently.
+A clean and interactive task planner built using **HTML, CSS, and JavaScript**.
 
 ## 🚀 Features
-- Add new tasks
-- View task list
-- Simple and clean user interface
-- Beginner-friendly project
+- ➕ Add daily tasks
+- 🎯 Set task priority (High / Medium / Low)
+- ✅ Click to mark tasks as completed
+- ❌ Delete tasks
+- 🌙 Dark mode toggle
+- 🎨 Clean & responsive UI
 
 ## 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- CSS3
+- JavaScript (DOM Manipulation)
 
-## 📂 Project Type
-Web Application (Frontend)
-
-## 📌 How to Use
-1. Open the project in a web browser
-2. Enter a task in the input box
-3. Click on the Add Task button
-4. Your task will be displayed in the task list
-
-## 🎯 Purpose
-This project is created for learning frontend web development and for academic/capstone submission.
+## 📂 How to Run
+1. Download or clone the repository
+2. Open `index.html` in your browser
 
 ## 👩‍💻 Author
-Mini
+**Mini**  
+BCA Student | Frontend Learner
+
+---
+
+⭐ If you like this project, don’t forget to star the repo!
